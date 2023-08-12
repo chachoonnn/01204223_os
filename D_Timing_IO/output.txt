@@ -1,0 +1,7 @@
+example1:
+    READING-small_file.txt, Time used: 0.001012563705444336 seconds
+    READING-large_file.txt, Time used: 0.015519857406616211 seconds
+
+example2:
+    READING-small_file.txt, Time used: 0.0009999275207519531 seconds
+    READING-large_file.txt, Time used: 0.011620283126831055 seconds
